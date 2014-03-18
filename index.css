@@ -1,0 +1,21 @@
+
+/**
+ * Zendesk logo.
+ */
+
+.logo[data-logo="Zendesk"] {
+  width: 4.105536680697535em;
+}
+
+.logo[data-logo="Zendesk"] > * {
+  background-image: url(images/logo.svg);
+  margin: -.1em 0 .15em 0;
+}
+
+.logo[data-logo="Zendesk"][data-color="black"] > * {
+  background-image: url(images/logo-black.svg);
+}
+
+.logo[data-logo="Zendesk"][data-color="white"] > * {
+  background-image: url(images/logo-white.svg);
+}
