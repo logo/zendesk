@@ -3,7 +3,7 @@
   "name": "zendesk",
   "repo": "logo/zendesk",
   "description": "The Zendesk logo.",
-  "version": "0.0.1",
+  "version": "0.2.0",
   "license": "MIT",
   "styles": [
     "style.css"
